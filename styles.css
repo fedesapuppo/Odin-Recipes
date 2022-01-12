@@ -1,7 +1,63 @@
-h1{
+h1 {
     color: rgb(0, 153, 153);
+    font-family: 'Brush Script MT', cursive;
+    text-align: center;
+    font-size: 50px;
 }
 
-img{
-    width: "400";
+#main-title {
+    font-family: 'Brush Script MT', cursive;
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
 }
+
+#links {
+    text-align: center;
+    font-size: 30px;
+}
+
+p {
+    text-align: center;
+    font-size: 25px;
+}
+
+h2 {
+    font-family: 'Brush Script MT', cursive;
+    text-align: center;
+    font-size: 40px;
+}
+
+ul {width: 70%; 
+    margin:0px auto; 
+    text-align: justify;
+    font-size: 20px;}
+
+ol {
+    width: 70%;
+    margin:0px auto;
+    text-align: justify;
+    font-size: 20px;
+}
+
+.chicken {
+    color: rgb(185, 125, 68);
+}
+
+.mac {
+    color: rgb(197, 188, 56);
+}
+
+.salmon {
+    color: rgb(250, 128, 114);
+}
+
+.img {
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
